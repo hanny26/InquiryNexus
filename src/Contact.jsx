@@ -26,7 +26,7 @@ export const Contact = () => {
   return (
     
       
-    <div className="flex justify-center items-center h-screen bg-amber-300">
+    <div className="flex justify-center items-center h-screen">
       <div className="p-8 rounded-lg shadow-2xl shadow-slate-700 w-auto sm:w-96 bg-emerald-400">
         <h2 className="text-xl font-bold mb-4">Contact Us</h2>
     
